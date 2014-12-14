@@ -1,0 +1,13 @@
+#menu ul{
+  list-style: none;
+}
+
+#menu li{
+  display: inline;
+}
+
+#search-div {
+  width: 70% ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
